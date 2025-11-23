@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">
-  💬 Liens pour pouvoir me contacter: 
+  👨🏻‍💻 Discover me as a developper 
 </h1>
 
 
