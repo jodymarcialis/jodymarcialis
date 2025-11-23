@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodymarcialis)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=15000&pause=3500&color=F7F7F7&width=435&lines=Some+software+and+IDEs+I+have+used%3A)](https://git.io/typing-svg)
 <br>
