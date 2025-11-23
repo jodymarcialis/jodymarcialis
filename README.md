@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 <!-- https://github.com/kyechan99/capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b617c,100:ce8161&height=300&section=header&text=Bienvenue%20&render&fontSize=90&animation=fadeIn" />
 
+
+<h1 align="center">
+  💬 Liens pour pouvoir me contacter: 
+</h1>
+
+
 <!--
 <a href="https://www.instagram.com/jody_mrcls/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -27,26 +33,24 @@ Here are some ideas to get you started:
 
 
 
-<!--
-<h2> 🚀 &nbsp;Some software, IDEs and environments I Have Used and Learned</h2>
-<p align="left">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Some+software+and+DEs+I+have+used%3A)](https://git.io/typing-svg)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-<!-- ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) 
-<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-</p>
+<!-- 
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+-->
 
 
 
-<h2> 🚀 &nbsp;Operating systems I got accustommed to</h2>
-<p align="left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Operating+systems+I+got+accustommed+to%3A)](https://git.io/typing-svg)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-</p>
 
 <!-- Socials 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) jody0587
@@ -85,5 +89,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b617c,100:ce8161&height=100&section=footer"/>
+</p>
