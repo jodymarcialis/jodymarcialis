@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 -->
-
+![Snake animation](https://github.com/jodymarcialis/jodymarcialis/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b617c,100:ce8161&height=100&section=footer"/>
