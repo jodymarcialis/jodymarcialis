@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Socials -->
-<h2>Socials</h2>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) jody0587
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jodymarcialis@gmail.com
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Jody Marcialis
@@ -34,7 +33,6 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- languages used -->
-<h2>Languages used for my projects </h2>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
