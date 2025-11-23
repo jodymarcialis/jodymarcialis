@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 <!-- https://github.com/kyechan99/capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b617c,100:ce8161&height=300&section=header&text=Bienvenue%20&render&fontSize=90&animation=fadeIn" />
 
+<!--
 <a href="https://www.instagram.com/jody_mrcls/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+-->
 
 <!-- Socials -->
+<h2>Socials</h2>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) jody0587
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jodymarcialis@gmail.com
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Jody Marcialis
@@ -31,6 +34,7 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- languages used -->
+<h2>Languages used for my projects </h2>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
