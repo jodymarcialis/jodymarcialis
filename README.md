@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jodymarcialis&show_icons=true&theme=dracula)
-![My stats](https://github-readme-stats.vercel.app/api?username=jodymarcialis&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodymarcialis&theme=dracula)
 
 
