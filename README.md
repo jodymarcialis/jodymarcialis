@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jodymarcialis&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodymarcialis&theme=dracula)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats, except they're not being shown](https://github-readme-stats.vercel.app/api?username=jodymarcialis&show_icons=true&theme=dracula) ![Top Langs, except they're not being shown](https://github-readme-stats.vercel.app/api/top-langs/?username=jodymarcialis&theme=dracula)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=15000&pause=7500&color=F7F7F7&width=435&lines=Software+and+IDEs+used%3A)](https://git.io/typing-svg)
