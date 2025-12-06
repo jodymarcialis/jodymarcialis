@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 -->
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jodymarcialis&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![My GitHub stats, except they're not being shown](https://github-readme-stats.vercel.app/api?username=jodymarcialis&show_icons=true&theme=dracula) ![Top Langs, except they're not being shown](https://github-readme-stats.vercel.app/api/top-langs/?username=jodymarcialis&theme=dracula)
 
