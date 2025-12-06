@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b617c,100:ce8161&height=300&section=header&text=Hello%20World&render&fontSize=90) -->
 <!-- https://github.com/kyechan99/capsule-render -->
-<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b617c,100:ce8161&height=300&section=header&text=Bienvenue%20!%20&render&fontSize=90&animation=fadeIn" />
 </p>
